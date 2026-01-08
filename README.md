@@ -81,3 +81,5 @@ Sends data to the BentoML-served model
 Returns anomaly detection results (approve vs. investigate)
 
 Designed the service to simulate real-world insurance claim submission workflows
+
+<img width="1882" height="991" alt="image" src="https://github.com/user-attachments/assets/8147a312-e1fe-4579-ba70-aafe55613fe7" />
